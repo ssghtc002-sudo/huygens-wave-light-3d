@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,60,&H00FFFFFF,&H00F8BD38,&H00120803,&H96000000,-1,0,0,0,100,100,0,0,1,7,2.5,2,85,85,225,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.18,0:00:00.59,Default,,0,0,0,,{\c&H00F8BD38&}Everyone{\c&H00FFFFFF&} swore light was
+Dialogue: 0,0:00:00.59,0:00:00.86,Default,,0,0,0,,Everyone {\c&H00F8BD38&}swore{\c&H00FFFFFF&} light was
+Dialogue: 0,0:00:00.86,0:00:01.12,Default,,0,0,0,,Everyone swore {\c&H00F8BD38&}light{\c&H00FFFFFF&} was
+Dialogue: 0,0:00:01.12,0:00:01.28,Default,,0,0,0,,Everyone swore light {\c&H00F8BD38&}was{\c&H00FFFFFF&}
+Dialogue: 0,0:00:01.28,0:00:01.49,Default,,0,0,0,,{\c&H00F8BD38&}tiny{\c&H00FFFFFF&} bullets—
+Dialogue: 0,0:00:01.49,0:00:01.85,Default,,0,0,0,,tiny {\c&H00F8BD38&}bullets—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:01.85,0:00:02.12,Default,,0,0,0,,{\c&H00F8BD38&}until{\c&H00FFFFFF&} two beams crossed
+Dialogue: 0,0:00:02.12,0:00:02.27,Default,,0,0,0,,until {\c&H00F8BD38&}two{\c&H00FFFFFF&} beams crossed
+Dialogue: 0,0:00:02.27,0:00:02.54,Default,,0,0,0,,until two {\c&H00F8BD38&}beams{\c&H00FFFFFF&} crossed
+Dialogue: 0,0:00:02.54,0:00:02.90,Default,,0,0,0,,until two beams {\c&H00F8BD38&}crossed{\c&H00FFFFFF&}
+Dialogue: 0,0:00:02.90,0:00:03.06,Default,,0,0,0,,{\c&H00F8BD38&}and{\c&H00FFFFFF&} created darkness.
+Dialogue: 0,0:00:03.06,0:00:03.43,Default,,0,0,0,,and {\c&H00F8BD38&}created{\c&H00FFFFFF&} darkness.
+Dialogue: 0,0:00:03.43,0:00:03.85,Default,,0,0,0,,and created {\c&H00F8BD38&}darkness.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:04.62,0:00:04.94,Default,,0,0,0,,{\c&H00F8BD38&}Light{\c&H00FFFFFF&} travels straight!
+Dialogue: 0,0:00:04.94,0:00:05.39,Default,,0,0,0,,Light {\c&H00F8BD38&}travels{\c&H00FFFFFF&} straight!
+Dialogue: 0,0:00:05.39,0:00:05.90,Default,,0,0,0,,Light travels {\c&H00F8BD38&}straight!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:05.90,0:00:06.16,Default,,0,0,0,,{\c&H00F8BD38&}Mere{\c&H00FFFFFF&} particles!
+Dialogue: 0,0:00:06.16,0:00:06.73,Default,,0,0,0,,Mere {\c&H00F8BD38&}particles!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:07.08,0:00:07.33,Default,,0,0,0,,{\c&H00F8BD38&}Then{\c&H00FFFFFF&} watch it\Nbend like ripples,
+Dialogue: 0,0:00:07.33,0:00:07.65,Default,,0,0,0,,Then {\c&H00F8BD38&}watch{\c&H00FFFFFF&} it\Nbend like ripples,
+Dialogue: 0,0:00:07.65,0:00:07.77,Default,,0,0,0,,Then watch {\c&H00F8BD38&}it{\c&H00FFFFFF&}\Nbend like ripples,
+Dialogue: 0,0:00:07.77,0:00:08.03,Default,,0,0,0,,Then watch it\N{\c&H00F8BD38&}bend{\c&H00FFFFFF&} like ripples,
+Dialogue: 0,0:00:08.03,0:00:08.28,Default,,0,0,0,,Then watch it\Nbend {\c&H00F8BD38&}like{\c&H00FFFFFF&} ripples,
+Dialogue: 0,0:00:08.28,0:00:08.73,Default,,0,0,0,,Then watch it\Nbend like {\c&H00F8BD38&}ripples,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:08.73,0:00:08.92,Default,,0,0,0,,{\c&H00F8BD38&}Sir{\c&H00FFFFFF&} Isaac.
+Dialogue: 0,0:00:08.92,0:00:09.24,Default,,0,0,0,,Sir {\c&H00F8BD38&}Isaac.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:09.62,0:00:09.74,Default,,0,0,0,,{\c&H00F8BD38&}In{\c&H00FFFFFF&} 1678,
+Dialogue: 0,0:00:09.74,0:00:09.98,Default,,0,0,0,,In {\c&H00F8BD38&}1678,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:09.98,0:00:10.56,Default,,0,0,0,,{\c&H00F8BD38&}Christiaan{\c&H00FFFFFF&} Huygens proved every
+Dialogue: 0,0:00:10.56,0:00:10.97,Default,,0,0,0,,Christiaan {\c&H00F8BD38&}Huygens{\c&H00FFFFFF&} proved every
+Dialogue: 0,0:00:10.97,0:00:11.32,Default,,0,0,0,,Christiaan Huygens {\c&H00F8BD38&}proved{\c&H00FFFFFF&} every
+Dialogue: 0,0:00:11.32,0:00:11.61,Default,,0,0,0,,Christiaan Huygens proved {\c&H00F8BD38&}every{\c&H00FFFFFF&}
+Dialogue: 0,0:00:11.61,0:00:11.91,Default,,0,0,0,,{\c&H00F8BD38&}point{\c&H00FFFFFF&} on a\Nwavefront sparks fresh
+Dialogue: 0,0:00:11.91,0:00:12.02,Default,,0,0,0,,point {\c&H00F8BD38&}on{\c&H00FFFFFF&} a\Nwavefront sparks fresh
+Dialogue: 0,0:00:12.02,0:00:12.11,Default,,0,0,0,,point on {\c&H00F8BD38&}a{\c&H00FFFFFF&}\Nwavefront sparks fresh
+Dialogue: 0,0:00:12.11,0:00:12.64,Default,,0,0,0,,point on a\N{\c&H00F8BD38&}wavefront{\c&H00FFFFFF&} sparks fresh
+Dialogue: 0,0:00:12.64,0:00:12.99,Default,,0,0,0,,point on a\Nwavefront {\c&H00F8BD38&}sparks{\c&H00FFFFFF&} fresh
+Dialogue: 0,0:00:12.99,0:00:13.28,Default,,0,0,0,,point on a\Nwavefront sparks {\c&H00F8BD38&}fresh{\c&H00FFFFFF&}
+Dialogue: 0,0:00:13.28,0:00:13.51,Default,,0,0,0,,{\c&H00F8BD38&}baby{\c&H00FFFFFF&} ripples—
+Dialogue: 0,0:00:13.51,0:00:13.92,Default,,0,0,0,,baby {\c&H00F8BD38&}ripples—{\c&H00FFFFFF&}
+Dialogue: 0,0:00:13.92,0:00:14.33,Default,,0,0,0,,{\c&H00F8BD38&}forming{\c&H00FFFFFF&} interference.
+Dialogue: 0,0:00:14.33,0:00:15.03,Default,,0,0,0,,forming {\c&H00F8BD38&}interference.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:15.62,0:00:15.99,Default,,0,0,0,,{\c&H00F8BD38&}Inside{\c&H00FFFFFF&} Iceland spar crystal,
+Dialogue: 0,0:00:15.99,0:00:16.41,Default,,0,0,0,,Inside {\c&H00F8BD38&}Iceland{\c&H00FFFFFF&} spar crystal,
+Dialogue: 0,0:00:16.41,0:00:16.65,Default,,0,0,0,,Inside Iceland {\c&H00F8BD38&}spar{\c&H00FFFFFF&} crystal,
+Dialogue: 0,0:00:16.65,0:00:17.07,Default,,0,0,0,,Inside Iceland spar {\c&H00F8BD38&}crystal,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:17.07,0:00:17.25,Default,,0,0,0,,{\c&H00F8BD38&}one{\c&H00FFFFFF&} beam splits\Nin two!
+Dialogue: 0,0:00:17.25,0:00:17.49,Default,,0,0,0,,one {\c&H00F8BD38&}beam{\c&H00FFFFFF&} splits\Nin two!
+Dialogue: 0,0:00:17.49,0:00:17.85,Default,,0,0,0,,one beam {\c&H00F8BD38&}splits{\c&H00FFFFFF&}\Nin two!
+Dialogue: 0,0:00:17.85,0:00:17.97,Default,,0,0,0,,one beam splits\N{\c&H00F8BD38&}in{\c&H00FFFFFF&} two!
+Dialogue: 0,0:00:17.97,0:00:18.15,Default,,0,0,0,,one beam splits\Nin {\c&H00F8BD38&}two!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:18.48,0:00:19.12,Default,,0,0,0,,{\c&H00F8BD38&}Impossible!{\c&H00FFFFFF&} Bullets don't ripple!
+Dialogue: 0,0:00:19.12,0:00:19.57,Default,,0,0,0,,Impossible! {\c&H00F8BD38&}Bullets{\c&H00FFFFFF&} don't ripple!
+Dialogue: 0,0:00:19.57,0:00:19.83,Default,,0,0,0,,Impossible! Bullets {\c&H00F8BD38&}don't{\c&H00FFFFFF&} ripple!
+Dialogue: 0,0:00:19.83,0:00:20.21,Default,,0,0,0,,Impossible! Bullets don't {\c&H00F8BD38&}ripple!{\c&H00FFFFFF&}
+Dialogue: 0,0:00:20.62,0:00:20.75,Default,,0,0,0,,{\c&H00F8BD38&}He{\c&H00FFFFFF&} also built\Nthe pendulum clock
+Dialogue: 0,0:00:20.75,0:00:21.01,Default,,0,0,0,,He {\c&H00F8BD38&}also{\c&H00FFFFFF&} built\Nthe pendulum clock
+Dialogue: 0,0:00:21.01,0:00:21.32,Default,,0,0,0,,He also {\c&H00F8BD38&}built{\c&H00FFFFFF&}\Nthe pendulum clock
+Dialogue: 0,0:00:21.32,0:00:21.51,Default,,0,0,0,,He also built\N{\c&H00F8BD38&}the{\c&H00FFFFFF&} pendulum clock
+Dialogue: 0,0:00:21.51,0:00:22.02,Default,,0,0,0,,He also built\Nthe {\c&H00F8BD38&}pendulum{\c&H00FFFFFF&} clock
+Dialogue: 0,0:00:22.02,0:00:22.34,Default,,0,0,0,,He also built\Nthe pendulum {\c&H00F8BD38&}clock{\c&H00FFFFFF&}
+Dialogue: 0,0:00:22.34,0:00:22.53,Default,,0,0,0,,{\c&H00F8BD38&}and{\c&H00FFFFFF&} unveiled Saturn's rings
+Dialogue: 0,0:00:22.53,0:00:23.03,Default,,0,0,0,,and {\c&H00F8BD38&}unveiled{\c&H00FFFFFF&} Saturn's rings
+Dialogue: 0,0:00:23.03,0:00:23.48,Default,,0,0,0,,and unveiled {\c&H00F8BD38&}Saturn's{\c&H00FFFFFF&} rings
+Dialogue: 0,0:00:23.48,0:00:23.79,Default,,0,0,0,,and unveiled Saturn's {\c&H00F8BD38&}rings{\c&H00FFFFFF&}
+Dialogue: 0,0:00:23.79,0:00:24.05,Default,,0,0,0,,{\c&H00F8BD38&}with{\c&H00FFFFFF&} wave-honed lenses.
+Dialogue: 0,0:00:24.05,0:00:24.62,Default,,0,0,0,,with {\c&H00F8BD38&}wave-honed{\c&H00FFFFFF&} lenses.
+Dialogue: 0,0:00:24.62,0:00:25.00,Default,,0,0,0,,with wave-honed {\c&H00F8BD38&}lenses.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:25.62,0:00:26.16,Default,,0,0,0,,{\c&H00F8BD38&}Lasers,{\c&H00FFFFFF&} Wi-Fi,
+Dialogue: 0,0:00:26.16,0:00:26.52,Default,,0,0,0,,Lasers, {\c&H00F8BD38&}Wi-Fi,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:26.52,0:00:26.79,Default,,0,0,0,,{\c&H00F8BD38&}and{\c&H00FFFFFF&} 5G today?
+Dialogue: 0,0:00:26.79,0:00:26.97,Default,,0,0,0,,and {\c&H00F8BD38&}5G{\c&H00FFFFFF&} today?
+Dialogue: 0,0:00:26.97,0:00:27.42,Default,,0,0,0,,and 5G {\c&H00F8BD38&}today?{\c&H00FFFFFF&}
+Dialogue: 0,0:00:27.42,0:00:27.68,Default,,0,0,0,,{\c&H00F8BD38&}All{\c&H00FFFFFF&} surfing Huygens' waves.
+Dialogue: 0,0:00:27.68,0:00:28.31,Default,,0,0,0,,All {\c&H00F8BD38&}surfing{\c&H00FFFFFF&} Huygens' waves.
+Dialogue: 0,0:00:28.31,0:00:28.94,Default,,0,0,0,,All surfing {\c&H00F8BD38&}Huygens'{\c&H00FFFFFF&} waves.
+Dialogue: 0,0:00:28.94,0:00:29.38,Default,,0,0,0,,All surfing Huygens' {\c&H00F8BD38&}waves.{\c&H00FFFFFF&}

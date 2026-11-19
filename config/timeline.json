@@ -1,0 +1,164 @@
+{
+  "title": "Christiaan Huygens — How Waves Defeated Light Bullets (1678)",
+  "scientistNumber": 7,
+  "duration": 30.0,
+  "fps": 30,
+  "totalFrames": 900,
+  "resolution": [1080, 1920],
+  "audio": {
+    "masterPath": "audio/output/master_audio.wav",
+    "manifestPath": "audio/output/voice_manifest.json",
+    "srtPath": "subtitles/subtitles.srt",
+    "assPath": "subtitles/subtitles.ass"
+  },
+  "speakers": {
+    "narrator": {
+      "voice": "bm_george",
+      "lang": "en-gb",
+      "speed": 1.12,
+      "pan": 0.0
+    },
+    "huygens": {
+      "voice": "bm_lewis",
+      "lang": "en-gb",
+      "speed": 1.10,
+      "pan": -0.18
+    },
+    "newton": {
+      "voice": "am_michael",
+      "lang": "en-us",
+      "speed": 1.12,
+      "pan": 0.22
+    }
+  },
+  "beats": [
+    {
+      "id": "B1",
+      "name": "Hook: Light Bullets vs Darkness",
+      "start": 0.0,
+      "end": 4.5
+    },
+    {
+      "id": "B2",
+      "name": "Rivalry: Newton's Particles vs Huygens' Ripple Tank",
+      "start": 4.5,
+      "end": 9.5
+    },
+    {
+      "id": "B3",
+      "name": "Discovery Macro: Huygens Secondary Wavelets & Interference",
+      "start": 9.5,
+      "end": 15.5
+    },
+    {
+      "id": "B4",
+      "name": "Comedic Twist: Iceland Spar Crystal Splits Light in Two",
+      "start": 15.5,
+      "end": 20.5
+    },
+    {
+      "id": "B5",
+      "name": "Climax: Pendulum Clock & Saturn's Rings Reveal",
+      "start": 20.5,
+      "end": 25.5
+    },
+    {
+      "id": "B6",
+      "name": "Modern Legacy: Lasers, Wi-Fi & 5G Waves",
+      "start": 25.5,
+      "end": 30.0
+    }
+  ],
+  "dialogue": [
+    {
+      "id": "L1",
+      "beatId": "B1",
+      "speaker": "narrator",
+      "start": 0.15,
+      "end": 4.35,
+      "text": "Everyone swore light was tiny bullets—until two beams crossed and created darkness."
+    },
+    {
+      "id": "L2",
+      "beatId": "B2",
+      "speaker": "newton",
+      "start": 4.60,
+      "end": 6.85,
+      "text": "Light travels straight! Mere particles!"
+    },
+    {
+      "id": "L3",
+      "beatId": "B2",
+      "speaker": "huygens",
+      "start": 7.05,
+      "end": 9.35,
+      "text": "Then watch it bend like ripples, Sir Isaac."
+    },
+    {
+      "id": "L4",
+      "beatId": "B3",
+      "speaker": "narrator",
+      "start": 9.60,
+      "end": 15.30,
+      "text": "In 1678, Christiaan Huygens proved every point on a wavefront sparks fresh baby ripples—forming interference."
+    },
+    {
+      "id": "L5",
+      "beatId": "B4",
+      "speaker": "narrator",
+      "start": 15.60,
+      "end": 18.25,
+      "text": "Inside Iceland spar crystal, one beam splits in two!"
+    },
+    {
+      "id": "L6",
+      "beatId": "B4",
+      "speaker": "newton",
+      "start": 18.45,
+      "end": 20.30,
+      "text": "Impossible! Bullets don't ripple!"
+    },
+    {
+      "id": "L7",
+      "beatId": "B5",
+      "speaker": "narrator",
+      "start": 20.60,
+      "end": 25.25,
+      "text": "He also built the pendulum clock and unveiled Saturn's rings with wave-honed lenses."
+    },
+    {
+      "id": "L8",
+      "beatId": "B6",
+      "speaker": "narrator",
+      "start": 25.60,
+      "end": 29.60,
+      "text": "Lasers, Wi-Fi, and 5G today? All surfing Huygens' waves."
+    }
+  ],
+  "sfx": [
+    { "t": 0.25, "type": "brass_cannon_ping", "pan": -0.35 },
+    { "t": 1.15, "type": "bullet_ricochet", "pan": 0.25 },
+    { "t": 2.45, "type": "wave_cancel_hum", "pan": 0.0 },
+    { "t": 3.55, "type": "dark_fringe_pulse", "pan": 0.0 },
+    { "t": 4.45, "type": "whip_whoosh", "pan": -0.2 },
+    { "t": 5.10, "type": "bullet_ricochet", "pan": 0.40 },
+    { "t": 6.15, "type": "pendulum_tick", "pan": -0.35 },
+    { "t": 7.20, "type": "water_droplet_ripple", "pan": -0.30 },
+    { "t": 8.40, "type": "ripple_bloom_shimmer", "pan": -0.15 },
+    { "t": 9.45, "type": "whip_whoosh", "pan": 0.15 },
+    { "t": 10.60, "type": "wavefront_slit_hit", "pan": 0.0 },
+    { "t": 11.80, "type": "wavelet_spark_chime", "pan": -0.25 },
+    { "t": 12.90, "type": "wavelet_spark_chime", "pan": 0.25 },
+    { "t": 14.10, "type": "interference_resonance", "pan": 0.0 },
+    { "t": 15.45, "type": "whip_whoosh", "pan": -0.25 },
+    { "t": 16.50, "type": "crystal_prism_split", "pan": 0.0 },
+    { "t": 17.60, "type": "dual_ray_harmonic", "pan": 0.15 },
+    { "t": 18.55, "type": "particle_dogma_shatter", "pan": 0.35 },
+    { "t": 20.45, "type": "whip_whoosh", "pan": 0.0 },
+    { "t": 21.15, "type": "pendulum_clock_chime", "pan": -0.38 },
+    { "t": 23.10, "type": "saturn_cosmic_bloom", "pan": 0.0 },
+    { "t": 25.45, "type": "whip_whoosh", "pan": 0.2 },
+    { "t": 26.40, "type": "laser_photonic_sweep", "pan": -0.20 },
+    { "t": 27.90, "type": "fiveg_wave_pulse", "pan": 0.22 }
+  ]
+}

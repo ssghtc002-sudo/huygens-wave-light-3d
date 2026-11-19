@@ -1,0 +1,5 @@
+render_frames/
+qa_frames/
+output/*.mp4
+__pycache__/
+*.pyc
